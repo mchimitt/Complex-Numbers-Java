@@ -1,3 +1,3 @@
 # Complex-Numbers-Java
 
-Computes calculations with complex numbers in Java
+Creates a Complex Number Class that can perform common mathematic operations.
